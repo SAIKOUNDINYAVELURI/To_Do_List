@@ -116,21 +116,7 @@ ToDo_App/
 
 ---
 
-## Screenshots  
-
-1. Main To-Do List  
-   ![Todo List Screenshot](./images/todo_list.png)  
-
-2. Edit & Delete Functionality  
-   ![Edit/Delete Screenshot](./images/edit_delete.png)  
-
----
-
-## Known Issues  
-
-- Tasks are not user-specific (single shared list).  
-- No persistent login or authentication.  
-- Input validation is minimal (no special character handling).  
+  
 
 ---
 
